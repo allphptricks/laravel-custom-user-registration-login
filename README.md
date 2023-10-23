@@ -1,4 +1,4 @@
-# Simple Laravel 10 Custom User Registration and Login Tutorial
+# Laravel 10 Custom User Registration and Login Tutorial
 Learn how to develop a simple Laravel 10 custom user registration and login application
 
 > The complete tutorial step by step guide is available on my blog. [Laravel 10 Custom User Registration and Login](https://www.allphptricks.com/laravel-custom-user-registration-and-login-tutorial/)
